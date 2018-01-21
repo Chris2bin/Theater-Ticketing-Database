@@ -1,0 +1,39 @@
+https://www.mockaroo.com/
+https://drive.google.com/drive/folders/0BzYEoMfUzVksd0FSM01BMEEyc2c
+
+JAMES
+ - Data Definition Command (DDL)
+ - Data insertion
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+CHRIS
+ - Data Manipulation Language 
+i. At least one aggregate function (count, max, min, avg, sum)
+ii. At least one query with a group by and having clauses
+[group by concert ID (ticket that are sold)]
+[display whether a concert's ticket are sold out, selling fast or available]-----|
+                                                                                 |----> create view
+[display amount of ticket available for each concert]----------------------------|
+[max - highest selling ticket]
+[min - lowest selling ticket sell]
+[percentage of ticket sell, vip, normal] order by
+[most ticket purchase by a customer -> rewards]
+[most ticket sold by agent -> rewards ]
+[freebies for those total_price more than specific number]
+[discount for senior citizen]---> Might be scraped
+[time schedule for a day in the theatre]
+{{{{{{{{check for a day, month, year}}}}}}}}}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+KUN / JOHN
+ - Data Manipulation Language 
+	iii. Triggers
+	iv. Stored procedure
+ 	v. View
+	vi. Use of subqueries/nested queries
+	vii. At least two queries not covered in lecture such as display the
+		 top n records, auto increment by 1 for every new row inserted,	etc.
+ - Presentation slides
+
+

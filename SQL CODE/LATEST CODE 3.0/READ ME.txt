@@ -1,0 +1,6 @@
+To use the database:
+ 1. Type 'DB2 -TD@' into your DB2 Command Line Processor.
+ 2. Create ( if you haven't already ) and connect to a database.
+ 3. Copy and paste all contents from 'CREATE TABLE.sql'
+ 4. Copy and paste all contents from 'TRIGGERS' folder.
+ 5. ( OPTIONAL ) Copy and paste from RECORDS for any testing you might want to do.
